@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNSIKLEE&show_icons=true&theme=radical)
 <br>
-# Skills🙏
+# Skills💪
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1764183bbafa7706e1a6ef9d703f3e85db377094d158a50ffcd42ee4f2099e35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1764183bbafa7706e1a6ef9d703f3e85db377094d158a50ffcd42ee4f2099e35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
 <img src="https://camo.githubusercontent.com/cd0c88ca6f43cc79094ccce27ef779ce3b5a5a4086a30420b68226185bdbe1e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67626f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" style="max-width: 100%;"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
